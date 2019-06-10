@@ -78,8 +78,7 @@ Demo: https://lingtalfi.com/simplesidebar
     To create a parent, we need to add an <code>a</code> tag inside the <code>li</code> item,
     and this <code>a</code> tag contains another <code>ul</code> containing
     the children items.
-
-
+    <br>
     On the <code>a</code> tag of the parent node, we need to add the following markup:
 
 </p>
